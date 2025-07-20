@@ -20,7 +20,7 @@
 
 ## 🌐 Live Demo
 
-[View Live Demo](https://shop-board-demo.vercel.app) <!-- Replace with your actual Vercel or GitHub Pages link -->
+[View Live Demo](https://mini-shop-jet.vercel.app/) <!-- Replace with your actual Vercel or GitHub Pages link -->
 
 ## 📦 Installation & Setup
 
