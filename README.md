@@ -1,16 +1,16 @@
 # 🛒 ShopBoard
 
-**Mini_Shop** — это современное веб-приложение для управления товарами. Здесь ты можешь добавлять новые товары через форму, получать их с сервера и удобно отображать в виде карточек. Интерфейс построен с использованием **React**, **TypeScript**, **React Router**, **Axios** и **Tailwind CSS**.
+**Mini_Shop** is a modern web application for managing products. You can add new items through a form, fetch products from a server, and display them as clean, responsive cards. The UI is built with **React**, **TypeScript**, **React Router**, **Axios**, and **Tailwind CSS**.
 
-## 🚀 Возможности
+## 🚀 Features
 
-- ➕ Добавление товаров с отправкой данных на сервер (POST-запрос)
-- 📦 Загрузка товаров с сервера (GET-запрос через Axios)
-- 🧾 Отображение списка товаров в виде карточек
-- 🔁 Маршрутизация между страницами (React Router)
-- ⚡ Быстрый и адаптивный интерфейс (Tailwind CSS)
+- ➕ Add new products with data sent to the server (POST request)
+- 📦 Fetch products from the server (GET request via Axios)
+- 🧾 Display a list of products as cards
+- 🔁 Navigate between pages (React Router)
+- ⚡ Fast and responsive interface (Tailwind CSS)
 
-## 🧰 Технологии
+## 🧰 Tech Stack
 
 - 🧠 React + TypeScript
 - 🧭 React Router DOM
@@ -20,19 +20,19 @@
 
 ## 🌐 Live Demo
 
-[Открыть демо](https://shop-board-demo.vercel.app) <!-- Замени ссылку на свою Vercel или GitHub Pages ссылку -->
+[View Live Demo](https://shop-board-demo.vercel.app) <!-- Replace with your actual Vercel or GitHub Pages link -->
 
-## 📦 Установка и запуск
+## 📦 Installation & Setup
 
 ```bash
-# 1. Клонируй репозиторий
-git clone https://github.com/[ТВОЙ_GITHUB/shop-board](https://github.com/Salam4ik666/Mini_Shop).git
+# 1. Clone the repository
+git clone https://github.com/Salam4ik666/Mini_Shop
 
-# 2. Перейди в папку проекта
-cd shop-board
+# 2. Navigate into the project folder
+cd mini-shop
 
-# 3. Установи зависимости
+# 3. Install dependencies
 npm install
 
-# 4. Запусти проект в режиме разработки
+# 4. Start the development server
 npm run dev
